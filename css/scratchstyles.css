@@ -1,0 +1,90 @@
+.common{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background-color: rgb(213, 197, 197);
+    }
+
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    background-color: orange;
+    border: 5px solid black;
+
+}
+.header{
+    font-size: 15px;
+    background-color: burlywood;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+ol{
+    font-size: 30px;
+    list-style-position: inside;
+    text-align: center;
+}
+
+ul{
+    font-size: medium;
+    list-style-position: inside;
+    text-align: center;
+}
+
+.background{
+    background-image: url(https://www.whereig.com/usa/maps/idaho-cities-map.png);
+    height: 500px; /* You must set a specified height */
+    background-position: right; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+
+}
+
+.mainbody{
+    background-color: rgb(97, 176, 97);
+}
+
+.footer{
+    height: 25px;
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+    line-height: 25px;
+    padding-top: 20px;
+}
+
+.photos{
+    text-align: left;
+    background-image: url(https://cdn.britannica.com/88/1488-004-CA60330D/state-flag-Idaho-military-officer-description-fact-1957.jpg);
+}
+
+#tableauPlaceholder{
+    text-align: center;
+}
+
+nav{
+    background-color: lightgray;
+    padding: 10px;
+    overflow: hidden;
+
+}
+
+nav a{
+    float: left;
+    color: black;
+    padding: 10px 13px;
+    text-decoration: None;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.tableauCenter{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
